@@ -1,0 +1,122 @@
+
+th,td{
+	height: 30px;
+	padding:10px;
+	border: 1px solid black;
+	text-align: center;	
+	font-weight: bold;
+	background-color: #E8ECE0;
+
+}
+th{
+	color: red;
+}
+ input:focus {
+    outline: 0 !important;
+}
+ button:focus {
+    outline: 0 !important;
+}
+
+.form-2{
+			font-style: bold;
+			font-size: 20px;
+			padding: 15px;
+			background: white;
+			text-align: center;
+			border-width: 0;
+			border: 1px solid black;
+			border-radius: 5px;
+			
+}
+.form-pay{
+			font-style: bold;
+			font-size: 20px;
+			padding: 15px;
+			background: white;
+			text-align: center;
+			border: 1px solid black;
+			border-radius: 5px;
+			width: 300px;
+			
+}
+.form-bg{
+	
+	background-color: rgba(0,0,0,0.7);
+	border-radius: 8px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.flight-info{
+	width: 400px;
+	height: 390px;
+	margin-left:180px;
+	border-radius:5px;
+	/*box-shadow: 0 0 50px black;*/
+	opacity: .8;
+	color: black;
+	font-weight: bold;
+	background-color: white;
+	
+
+}
+input{
+	cursor: pointer;
+}
+p{
+	margin: 10px;
+	margin-left: 50px;
+}
+img {
+	margin-top: 10px;
+      width: 70%;
+     border-radius: 8px;
+    margin-left: 10px;
+    background-color: white;
+    align-items: center;
+
+    }
+
+.card{
+	background-color: #DCDA33;
+	border-radius: 8px;
+	color: white;
+	border: 1px solid black; 
+	width: 400px;
+	margin: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+.link-button{
+	  background: url(images/p7.png) no-repeat;
+	border-width: 0;
+	color: red;
+	font-weight: bold;
+	font-size: 30px;
+}
+.link-button:hover{
+color: darkred;
+}
+.ticket{
+	margin: 10%;
+	margin-left: 35%;
+	margin-right: 30%;
+	background-color: #DCDA33;
+	box-shadow: 0 0  100px red;
+	border-radius: 8px;
+	width: 400px;
+}
+hr{
+	width: 40%;
+	margin-top: 15px;
+ border: 5px solid green;.
+
+}
+.see-flights{
+	display: none;
+}
+.table{
+	font-size: 15px;
+}

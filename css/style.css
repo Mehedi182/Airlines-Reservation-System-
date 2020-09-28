@@ -1,0 +1,115 @@
+ #contact{
+ 	display: flex;
+ }
+ .contact{
+              background-color: #7BFFD7;
+              height: 600px;
+              width: 50%;
+          }
+ .container-1{
+ 	height: 350px;
+ 	width: 300px;
+ 	background-color: #1D4050;
+ 	margin-left: -400px;
+ 	position: absolute;
+ 	font-size: 20px;
+ 	color: white;
+ 	box-shadow: 0 0  20px black;
+
+
+ }
+ .container-2{
+ 	height: 600px;
+    width: 50%;
+ 	background-color: #1D96CD;
+ 	display: flex;
+ }
+ .container-3{
+ 	height: 450px;
+ 	width: 800px;
+ 	background-color: white;
+ 	margin-top: 45px;
+ 	margin-left:400px;
+ 	   position: absolute;
+ 	    	box-shadow: 0 0  20px black;
+
+
+ }
+ .input-sec{
+ 	margin-left: 200px;
+ 	margin-top: 50px;
+ 	font-size: 20px;
+ 	color: red;
+ 	font-weight: bold;
+ }
+ input{
+ 	border-width: 0;
+ 	border-bottom: 1px solid black;
+ 	height: 30px;
+ 	font-size: 15px;
+ 	margin-left: 10px;
+ 	width: 250px;
+ }
+
+ textarea,input:focus {
+    outline: 0 !important;
+}
+textarea{
+	overflow: hidden;
+	height: 80px;
+	width: 520px;
+	border-width: 0;
+ 	border-bottom: 1px solid black;
+ 	font-family: monospace;
+ 	margin-left: 10px;
+}
+.bt{
+	border-width: 0;
+	padding: 15px;
+	background-color: #4B1335;
+	font-weight: bold;
+	cursor: pointer;
+	color: white;
+	margin-left: 10px;
+	width: 100px;
+}
+.bt:hover{
+	padding: 20px;
+}
+
+.img-1{
+	margin-left: 10px;
+	height: 30px;
+	width: 30px;
+}
+
+.img-2{
+	margin-left: 10px;
+	height: 40px;
+	width: 40px;
+}
+
+.img-3,.img-4{
+	margin-left: 10px;
+	height: 70px;
+	width: 70px;
+}
+.img-3{
+margin-left: 90px;
+}
+.img-4{
+margin-left: -30px;
+}
+
+a{
+	text-decoration: none;
+}
+p{
+	margin-left: 60px;
+	color: #CFCCCC;
+}
+img:hover{
+	
+	height: 80px;
+	width: 80px;
+}

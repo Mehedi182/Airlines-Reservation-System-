@@ -1,0 +1,117 @@
+input:focus {
+    outline: 0 !important;
+}
+
+.form{
+			font-style: bold;
+			font-size: 20px;
+			padding: 15px;
+			background: white;
+			text-align: center;
+			border-width: 0;
+			border: 1px solid black;
+			border-radius: 5px;
+			height: 50px;
+		}
+
+.form-br{
+	margin-top: 10px;
+}
+.form-size{
+ height: 60px;
+}
+		.header-1{
+			font-style: bold;
+			font-size: 20px;
+			padding: 15px;
+			color: white;
+			text-align: center;
+
+		}
+		#button:hover {background: lightblue;}
+		select:invalid{color:gray;}
+.login-container{
+	margin: 10%;
+	margin-left: 35%;
+	margin-right: 30%;
+	background-color: #DCDA33;
+	box-shadow: 0 0  100px red;
+	border-radius: 8px;
+	width: 400px;
+		
+	
+}
+.fp{
+	background-color: blue;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	height: 50px;
+	color: white;
+}	
+.reg{
+	background-color: rgba(0,0,0,0.7);/* here opicity is .7*/
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.reg-content{
+	width: 400px;
+	background-color:white;
+	box-shadow: 0 0  100px red;
+	border-radius: 5px;
+
+
+}
+select:invalid{color:gray;}
+.flight-container{
+	
+	border-radius: 5px;
+	margin-left: 120px;
+	margin-right: 120px;
+	background-color: rgba(0,0,0,0.4);/* here opicity is .7*/
+	display: none;
+}
+.flight-container-2 form{
+
+color: white;
+
+}
+.flight-container-2 {
+
+color: white;
+
+}
+
+.round{
+	margin-top: 10px;
+	display:none;
+	flex-wrap: wrap;
+}
+form img{
+	height: 15px;
+	width: 15px;
+}
+.round img{
+	margin-top: 25px;
+}
+.round b{
+	margin-top: 20px;
+}
+.form-m{
+	display: none;
+	color: black;
+	font-weight: bold;
+
+}
+input{
+	cursor: pointer;
+}
+.reg img{
+	height: 80PX;
+	width: 80PX;
+}
+
