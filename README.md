@@ -9,4 +9,4 @@ This is Complete website of a Airlines.
 * Payment System
 * Pdf of Ticket
 * Admin Panel
-    * Manges the Backend<br />  from Fontend.
+    * Manges the Backend from Fontend.
