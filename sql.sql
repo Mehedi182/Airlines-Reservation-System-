@@ -166,8 +166,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_ID`, `fname`, `lname`, `email`, `password`, `gender`, `p_number`, `Reg_date`) VALUES
-(56, 'Mehedi ', 'Hasan', 'mehedihasan152201@gmail.com', 'mehedi305', 'male', 1846417288, '2020-09-19 06:09:22'),
-(62, 'Umme', 'Tahia', 'raha@gmail.edu', 'raha132', 'female', 158496320, '2020-09-28 10:54:49');
+(56, 'Mehedi ', 'Hasan', 'mehedihasan152201@gmail.com', 'mehedi305', 'male', 1846417288, '2020-09-19 06:09:22');
 
 --
 -- Indexes for dumped tables
